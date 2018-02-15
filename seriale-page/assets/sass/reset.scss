@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	border: 0;
+	vertical-align: baseline;
+	outline: 0;
+}
+body {
+    font-family: 'Fira Sans', sans-serif;
+    background: #222;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+a:hover {
+	text-decoration: none;
+}
+.container-fluid {
+	margin-top: 100px;
+}
