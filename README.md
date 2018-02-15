@@ -1,13 +1,6 @@
 Strona zawierająca zwiastuny do najnowszych filmów
 <html>
   <body>
-    <div class="test"></div>
-    <style>
-      .test {
-        width: 150px;
-        height: 300px;
-        background: red;
-      }
-    </style>
+    <div class="test" style="width: 150px; height: 300px; background: red; "></div>
   </body>
 </html>
