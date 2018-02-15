@@ -1,4 +1,1 @@
-# seriale-page
-# seriale-page
-# seriale-page
-# ipg
+Strona zawierająca zwiastuny do najnowszych filmów
