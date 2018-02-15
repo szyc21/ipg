@@ -1,4 +1,4 @@
 ## Strona zawierająca zwiastuny do najnowszych filmów
 
-![](https://imgur.com/a/emhGL)
+![](https://i.imgur.com/vlzqrTm.jpg)
 
